@@ -67,3 +67,11 @@ The search runs paid/community Apify Actors. Apify charges depend on the Actor a
 - TikTok and Meta expose different fields. Missing reach, spend, comments, etc. are not automatically zero in reality; they may simply not be published.
 - The project uses public ad-library/creative-center data through Apify and does not collect passwords, authentication tokens, or private account data.
 - Actor schemas can change. The Actor IDs are editable in the sidebar so you can switch providers without changing the analysis layer.
+
+
+## Donate
+
+If you like this project, you can support it with USDT:
+
+- Network: TRC20 (Tron)
+- Address:TFpnSSCCZhmdW9963GVHmwHxE9iTJixAih
