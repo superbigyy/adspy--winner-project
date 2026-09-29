@@ -30,6 +30,7 @@ A local product-research dashboard. It pulls public ad data from **TikTok**, **F
 14. [Troubleshooting](#troubleshooting)
 15. [Cost, limitations and legal notes](#cost-limitations-and-legal-notes)
 16. [License](#license)
+17. [Donate](#Donate)
 
 ---
 
@@ -750,7 +751,7 @@ Copyright (c) 2026 Sifo. All Rights Reserved. This is proprietary software: no c
 
 
 
-##Donate
+## Donate
 If you like this project, you can support it with USDT:
 
 Network: TRC20 (Tron)
